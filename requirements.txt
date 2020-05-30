@@ -243,7 +243,7 @@ sympy==1.4
 tables==3.6.0
 tblib==1.6.0
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-addons==0.6.0
 tensorflow-estimator==1.14.0
 tensorflow-gpu==1.14.0
